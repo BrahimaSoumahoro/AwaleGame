@@ -53,19 +53,19 @@ body {
     align-items: center; */
 }
 
-.seed {
+/* .seed {
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background-color: black;
-}
+} */
 
-.seed {
+/* .seed {
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background-color: rgb(7, 7, 7);
-}
+} */
 .pit:hover {
     background-color: #e4e407;
 }
@@ -96,31 +96,119 @@ body {
 
 span  {
     background-color: #863339;
-    width: 400px;
-    height: 400px;
+    width: 40px;
+    height: 40px;
     /* font-size: 500px;
     font-family: Verdana, Geneva, Tahoma, sans-serif; */
     border-radius: 50%;
+    background-image: radial-gradient(#fff, #0dddec 70%);
 }
+/* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
 
 #seed-1 {
-    background-color: #0aca14;
-    width: 400px;
-    height: 400px;
-    /* font-size: 500px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif; */
-    border-radius: 50%;
+    background-image: radial-gradient(#fff, #8104e7 70%);
 }
 
+#seed-2 {
+        background-image: radial-gradient(#fff, #880bee 70%);
+}
+
+#seed-3 {}
+
+#seed-4 {}
+
+#seed-5 {}
+
+#seed-6 {}
+
+#seed-7 {}
+
+#seed-8 {}
+
+#seed-9 {}
+
+#seed-10 {}
+
+#seed-11 {}
+
+#seed-12 {}
+
+#seed-13 {}
+
+#seed-14 {}
+
+#seed-15 {}
+
+#seed-16 {}
+
+#seed-17 {}
+
+#seed-18 {}
+
+#seed-19 {}
+
+#seed-20 {}
+
+#seed-21 {}
+
+#seed-22 {}
+
+#seed-23 {}
+
+#seed-24 {
+    background-image: radial-gradient(#fff, #8104e7 70%);
+}
+
+#seed-25 {}
+
+#seed-26 {}
+
+#seed-27 {}
+
+#seed-28 {}
+
+#seed-29 {}
+
+#seed-30 {}
+
+#seed-31 {}
+
+#seed-32 {}
+
+#seed-33 {}
+
+#seed-34 {}
+
+#seed-35 {}
+
+#seed-36 {}
+
+#seed-37 {}
+
+#seed-38 {}
+
+#seed-39 {}
+
+#seed-40 {}
+
+#seed-41 {}
+
+#seed-42 {}
+
+#seed-43 {}
+
+#seed-44 {}
+
+#seed-45 {}
+
+#seed-46 {}
+
+#seed-47 {}
+
 #seed-48 {
-    /* background-color: #8104e7; */
-        width: 400px;
-        height: 400px;
-        /* font-size: 500px;
-        font-family: Verdana, Geneva, Tahoma, sans-serif; */
-        border-radius: 50%;
         background-image: radial-gradient(#fff, #8104e7 70%);
 }
+
 .turn {
     font-weight: bold;
    
