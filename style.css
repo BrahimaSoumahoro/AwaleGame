@@ -1,5 +1,7 @@
-h1  {
-  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -94,10 +96,31 @@ body {
 
 span  {
     background-color: #863339;
-    font-size: 500px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    height: 400px;
+    /* font-size: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    border-radius: 50%;
 }
 
+#seed-1 {
+    background-color: #0aca14;
+    width: 400px;
+    height: 400px;
+    /* font-size: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    border-radius: 50%;
+}
+
+#seed-48 {
+    /* background-color: #8104e7; */
+        width: 400px;
+        height: 400px;
+        /* font-size: 500px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif; */
+        border-radius: 50%;
+        background-image: radial-gradient(#fff, #8104e7 70%);
+}
 .turn {
     font-weight: bold;
    
@@ -110,13 +133,6 @@ span  {
 }
 
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
-
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 
 .game-board {
