@@ -93,19 +93,56 @@ body {
     background-color: rgb(235, 38, 120);
     text-align: center;
 }
+/* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
+#startButton {
+    background-color:#b98b63;
+    color: #f2eddb;
+    border: none;
+    padding 15px 32px;
+    font-size: 70px;
+    border-radius: 25%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    margin: 4px 2px;
+    align-items: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#resetButton    {
+    background-color: #070707;
+    color: #b46c24;
+    border: none;
+    width: 180px;
+    height:180px;
+        padding 15px 32px;
+        font-size: 45px;
+        border-radius: 70%;
+        font-family:'Gill Sans',
+            'Gill Sans MT',
+            Calibri,
+            'Trebuchet MS',
+            sans-serif;
+        font-weight: bold;
+        margin: 4px 2px;
+        align-items: center;
+        display: inline-block;
+        
+        cursor: pointer;
+}
 
 span  {
-    background-color: #863339;
+    /* background-color: #863339; */
     width: 40px;
     height: 40px;
     /* font-size: 500px;
     font-family: Verdana, Geneva, Tahoma, sans-serif; */
     border-radius: 50%;
-    background-image: radial-gradient(#fff, #0dddec 70%);
+    background-image: radial-gradient(#fff, #0dddec 80%);
 }
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
 
-#seed-1 {
+/* #seed-1 {
     background-image: radial-gradient(#fff, #8104e7 70%);
 }
 
@@ -306,7 +343,7 @@ span  {
     margin-top: 10px;
     font-size: 24px;
     font-weight: bold;
-}
+} */
 
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
 
