@@ -1,0 +1,138 @@
+h1  {
+  
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#board {
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+}
+
+.header {
+    align-self: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: 1500px;
+    margin-bottom: 0.6px;
+    background-color:#875234;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.pit {
+ 
+    border: 5px solid #863339;
+    border-radius: 50%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    font-size: 20px;
+    cursor: pointer;
+    /* margin-right: 50px; */
+    width: 200px;
+    height: 200px;
+    border: 1px solid #e4d4bc;
+    background-color: #cc945b;
+    border-radius: 70%;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; */
+}
+
+.seed {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.seed {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(7, 7, 7);
+}
+.pit:hover {
+    background-color: #e4e407;
+}
+
+.player {
+    margin-top: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    background-color:#e4e407;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#player-1 {
+   color: #0a9fe4;
+   background-color: blueviolet;
+   text-align: center;
+    flex-direction: column;
+}
+
+#player-2 {
+    color: #eed706;
+    background-color: rgb(235, 38, 120);
+    text-align: center;
+}
+
+span  {
+    background-color: #863339;
+    font-size: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.turn {
+    font-weight: bold;
+   
+}
+
+.score {
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.game-board {
+    width: 100%;
+    height: 100%;
+    display:flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+
+.game-info {
+   
+}
+
+.game-controls {
+    
+}
