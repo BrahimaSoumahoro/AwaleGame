@@ -42,5 +42,5 @@ In this case, the remaining seeds aren't captured.
 One of the players quits the game. The other player captures all the remaining seeds.
 
 ## Resources
-[https://w3schools.com]
-[https://africaimports.com/]
+[w3schools.com]
+https://africaimports.com/
