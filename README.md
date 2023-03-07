@@ -50,3 +50,7 @@ https://w3schools.com <br>
 https://africaimports.com <br>
 https://perscholas.org <br>
 <u>__Perscholas:__</u><br> * classes <br> * Recordings <br> * Classmates <br> * The Wellness Support Team <br> * Last but not least the instructors <br>
+<br>
+# Read
+* The Bible of C#
+* Mastering Javascript Premium Edition 
