@@ -46,7 +46,7 @@ One of the players quits the game. The other player captures all the remaining s
 </p>
 
 ## Resources
-https://w3schools.com
-https://africaimports.com
-https://perscholas.org/
-Perscholas classes, Recordings, Classmates, The Wellness Support Team and Last but not least the instructors
+https://w3schools.com <br>
+https://africaimports.com <br>
+https://perscholas.org <br>
+Perscholas: <br> classes,<br> Recordings,<br> Classmates, <br> The Wellness Support Team <br> and Last but not least the instructors <br>
