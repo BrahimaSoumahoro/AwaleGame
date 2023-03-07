@@ -38,7 +38,7 @@ One of the players quits the game. The other player captures all the remaining s
 
  <p align="center">
   <img src="C:\Users\brahi\Desktop\SoftDEV\PreScholas_SoftwareEngineering\COHORTSE_04\GAMES\AwaleTafire\AwaleTafire_graph.png" width="350" title="AwaleTafire_graph">
-  <img src="C:\Users\brahi\Desktop\SoftDEV\PreScholas_SoftwareEngineering\COHORTSE_04\GAMES\AwaleTafire\AwaleTafire_graphBoard.png" width="350" alt="AwaleTafire_graphBoard">
+  <img src="AwaleTafire_graphBoard.png" width="350" alt="AwaleTafire_graphBoard">
 </p>
 
 
