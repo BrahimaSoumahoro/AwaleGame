@@ -1,5 +1,5 @@
 
-# The Awalé Tafiré
+# The Awalé GAME 
 
  <p align="center">
   <img src="AwaleTafire_graph.png" width="500" title="AwaleTafire_graph">
@@ -7,9 +7,9 @@
 </p>
 
 
-Awale are very simple, and the game is easy to understand. On the other hand, the strategies to be successful can be complex and subtle.a group of round objects. The aim of Awale is to collect more seeds than your opponent. The board is divided into two sections, each with six holes. At the start, 48 seeds are placed in the 12 holes, four in each. Players take turns, with the first one chosen randomly. The player takes all the seeds from a hole in their area and distributes them counterclockwise, one in each hole. If the last seed falls into an opponent's hole that already has one or two seeds, the player captures the two or three seeds. If the player captures two or three seeds, and the preceding hole also has two or three, they are captured too. If the number of seeds taken is more than 11, it's called a 'loop'. A player must always leave at least one seed to the opponent. The game ends when one of the two players can no longer continue playing, or one quits. The player with the most seeds wins.
+Awalé are very simple, and the game is easy to understand. On the other hand, the strategies to be successful can be complex and subtle.a group of round objects. The aim of Awalé is to collect more seeds than your opponent. The board is divided into two sections, each with six holes. At the start, 48 seeds are placed in the 12 holes, four in each. Players take turns, with the first one chosen randomly. The player takes all the seeds from a hole in their area and distributes them counterclockwise, one in each hole. If the last seed falls into an opponent's hole that already has one or two seeds, the player captures the two or three seeds. If the player captures two or three seeds, and the preceding hole also has two or three, they are captured too. If the number of seeds taken is more than 11, it's called a 'loop'. A player must always leave at least one seed to the opponent. The game ends when one of the two players can no longer continue playing, or one quits. The player with the most seeds wins.
 
-# The Rules of Awale
+# The Rules of Awalé
 
 ## Rule 1 : Aim of the game
 The aim of the game is to capture more seeds than your opponent. At the end of the game, the player who has captured the most seeds wins.
@@ -41,6 +41,6 @@ The game is "looping", i.e. after some turns, the same play board configuration 
 In this case, the remaining seeds aren't captured.
 One of the players quits the game. The other player captures all the remaining seeds.
 
-
-
-
+## Resources
+[https://w3schools.com]
+[https://africaimports.com/]

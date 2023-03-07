@@ -1,10 +1,14 @@
 
 const NumOfPits = 6;
 const NumSeedInPit = 4;
-let board = //  [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4];
-    [4, 4, 4, 4, 4, 4]   // Player 1's pit
-    [4, 4, 4, 4, 4, 4] // Player 2's pit
+const board = document.getElementById("board");
+const seeds = board.getContext ("2d");
 
+let x = 0; 
+let y = 0;
+
+let board1 =  [4, 4, 4, 4, 4, 4];  // Player 1's pit
+let board2=   [4, 4, 4, 4, 4, 4];// Player 2's pit
 
 
 let player1 = {
@@ -62,7 +66,7 @@ function playTurn(pitIndex) {
     currentPlayer = (currentPlayer === player1) ? player2 : player1;
   }
 
-  
+
   console.log("New board state:");
   console.log(board);
   console.log(player1.name + "'s score: " + player1.score);
@@ -76,4 +80,8 @@ playTurn(2);
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
-const seed = document.getElementById("board")
+
+
+function seed() {
+  requestAnimationFrame
+}
