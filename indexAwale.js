@@ -21,10 +21,8 @@ let player2 = {
 
 let currentPlayer = player1; 
 
-
 console.log("Initial board state:");
 console.log(board);
-
 
 function playTurn(pitIndex) {
   let collectedSeedToRelease = board[pitIndex];
@@ -75,67 +73,7 @@ function playTurn(pitIndex) {
 playTurn(2);
 
 
-
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-/*NumOfPits
-NumSeedInPit */
-
-// const NumOfPits = 6;
-// const NumSeedInPit = 4;
 
 
-// let board = [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4];
-// for (let i = 0; i < 2; i++) {
-//   let row = [];
-//   for (let j = 0; j < NumOfPits; j++) {
-//     row.push(NumSeedInPit);
-//   board.push(row);
-// }
-
-
-// let player1 = {
-//   name: "Player 1",
-//   score: 0,
-//   side: 0 // index of row in board array
-// };
-
-// let player2 = {
-//   name: "Player 2",
-//   score: 0,
-//   side: 1 // index of row in board array
-// };
-
-
-// let currentPlayer = Math.round(Math.random()) ? player1 : player2;
-
-
-// function collectedSeed(pitIndex, player) {
-//   let collectedSeedToRelease = board[player.side][pitIndex];
-//   board[player.side][pitIndex] = 0;
-//   let currentIndex = pitIndex;
-//   while (collectedSeedToRelease > 0) {
-//     currentIndex = (currentIndex + 1) % NumOfPits;
-//     if (currentIndex === pitIndex) {
-
-//       continue;
-//     }
-//     board[player.side][currentIndex]++;
-//     collectedSeedToRelease--;
-//   }
-
-//   if (currentIndex === player.side * NumOfPits + NumOfPits - 1) {
-//     player.score++;
-//     return true; // get another turn
-//   }
-
-//   if (board[player.side][currentIndex] === 1) {
-//     let opponentIndex = NumOfPits - 1 - currentIndex;
-//     if (board[player.side ^ 1][opponentIndex] > 0) {
-//       player.score += board[player.side ^ 1][opponentIndex] + 1;
-//       board[player.side][currentIndex] = 0;
-//       board[player.side ^ 1][opponentIndex] = 0;
-//     }
-//   }
-//   return false; // end turn
-// }
-
+const seed = document.getElementById("board")

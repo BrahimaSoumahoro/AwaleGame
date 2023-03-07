@@ -85,13 +85,16 @@ body {
    color: #0a9fe4;
    background-color: blueviolet;
    text-align: center;
-    flex-direction: column;
+    width: 400px;
+   
+
 }
 
 #player-2 {
     color: #eed706;
     background-color: rgb(235, 38, 120);
     text-align: center;
+    width: 400px;
 }
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
 #startButton {
@@ -139,6 +142,7 @@ span  {
     font-family: Verdana, Geneva, Tahoma, sans-serif; */
     border-radius: 50%;
     background-image: radial-gradient(#fff, #0dddec 80%);
+    cursor: pointer;
 }
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
 
