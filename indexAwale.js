@@ -79,8 +79,20 @@ playTurn(2);
 
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-
-
+class ClickAndHold {
+  /**
+   * 
+   * @param {EventTarget} target the HTML element to apply the event to
+   * @param {function} callback the function to run once the target is click and held
+   */
+  constructor(target, callback) {
+    this.target = target;
+    this.callback = callback;
+    this.isHeld = false;
+    this.activeHoldTimeoutId = null;
+  
+  }
+}
 
 function seed() {
   requestAnimationFrame
