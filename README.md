@@ -49,4 +49,4 @@ One of the players quits the game. The other player captures all the remaining s
 https://w3schools.com <br>
 https://africaimports.com <br>
 https://perscholas.org <br>
-<u>Perscholas:</u><br> * classes <br> * Recordings <br> * Classmates <br> * The Wellness Support Team <br> * Last but not least the instructors <br>
+__<u>__Perscholas:__</u><br> * classes <br> * Recordings <br> * Classmates <br> * The Wellness Support Team <br> * Last but not least the instructors <br>
