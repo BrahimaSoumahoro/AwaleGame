@@ -41,6 +41,12 @@ The game is "looping", i.e. after some turns, the same play board configuration 
 In this case, the remaining seeds aren't captured.
 One of the players quits the game. The other player captures all the remaining seeds.
 
+ <p align="center">
+  <img src="WireFrameAwale.png" width="500" title="Wireframe Awale">
+</p>
+
 ## Resources
 https://w3schools.com
 https://africaimports.com
+https://perscholas.org/
+Perscholas classes, Recordings, Classmates, The Wellness Support Team and Last but not least the instructors
