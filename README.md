@@ -52,5 +52,7 @@ https://perscholas.org <br>
 <u>__Perscholas:__</u><br> * classes <br> * Recordings <br> * Classmates <br> * The Wellness Support Team <br> * Last but not least the instructors <br>
 <br>
 # Read
-* The Bible of C#
+* The Computer Programming Bible
 * Mastering Javascript Premium Edition 
+* The complete Reference of C#
+* The C Bible
