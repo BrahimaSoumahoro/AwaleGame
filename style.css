@@ -160,198 +160,200 @@ span  {
     border-radius: 50%;
     background-image: radial-gradient(#fff, #b3481f 60%);
     cursor: pointer;
+    display: inline-flex;
 }
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
 
- #seed-1 {
-    background-image: radial-gradient(#fff, #b3481f 60%#b3481f 60%);
+ #seed1 {
+    background-image: radial-gradient(#fff, #3810ca 60%);
 }
 
-#seed-2 {
-        background-image: radial-gradient(#fff, #b3481f 60%);
-}
-
-#seed-3 {
+#seed2 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-4 {
+#seed3 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-5 {
+#seed4 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-6 {
+#seed5 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-7 {
+#seed6 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-8 {
+#seed7 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-9 {
+#seed8 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-10 {
+#seed9 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-11 {
+#seed10 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-12 {
+#seed11 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-13 {
-    background-image: radial-gradient(#fff, #b3481f 60%);}
-
-#seed-14 {
+#seed12 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-15 {
+#seed13 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-16 {
+#seed14 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-17 {
+#seed15 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-18 {
+#seed16 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-19 {
+#seed17 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-20 {
+#seed18 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-21 {
+#seed19 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-22 {
+#seed20 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-23 {
+#seed21 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-24 {
+#seed22 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-25 {
+#seed23 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-26 {
+#seed24 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-27 {
+#seed25 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-28 {
+#seed26 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-29 {
+#seed27 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-30 {
+#seed28 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-31 {
+#seed29 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-32 {
+#seed30 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-33 {
+#seed31 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-34 {
+#seed32 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-35 {
+#seed33 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-36 {
+#seed34 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-37 {
+#seed35 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-38 {
+#seed36 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-39 {
+#seed37 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-40 {
+#seed38 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-41 {
+#seed39 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-42 {
+#seed40 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-43 {
+#seed41 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-44 {
+#seed42 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-45 {
+#seed43 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-46 {
+#seed44 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-47 {
+#seed45 {
     background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
-#seed-48 {
-        background-image: radial-gradient(#fff, #b3481f 60%);
+#seed46 {
+    background-image: radial-gradient(#fff, #b3481f 60%);
+}
+
+#seed47 {
+    background-image: radial-gradient(#fff, #b3481f 60%);
+}
+
+#seed48 {
+    background-image: radial-gradient(#fff, #b3481f 60%);
 }
 
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
